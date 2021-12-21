@@ -4,3 +4,8 @@
 
 //declaration
 var firstName;
+var lastName;
+var age;
+
+//initialize
+var
