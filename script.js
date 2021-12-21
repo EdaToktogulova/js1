@@ -2,10 +2,11 @@
 
 // console.log("Hello world")
 
-//declaration
+// declaration
 var firstName;
-var lastName;
-var age;
 
-//initialize
-var
+// initialize
+var lastName = "Volkon";
+
+// assigment 
+firstName = "Vasya";
