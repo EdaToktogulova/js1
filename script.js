@@ -17,3 +17,4 @@ console.log(firstName)
 // example 1 maath
 var potatoes = 5, tomatoes = 3;
 var vetatables = potatoes + tomatoes;
+console.log(vetatables);
