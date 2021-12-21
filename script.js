@@ -19,3 +19,4 @@ var potatoes = 5, tomatoes = 3;
 var vetatables = potatoes + tomatoes;
 console.log(vetatables);
 var result = vetatables / 2;
+console.log(result)
